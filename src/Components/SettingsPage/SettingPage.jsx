@@ -7,7 +7,7 @@ export default function SettingPage() {
     const { settings, dispatch } = useContext(SettingContext)
     return (
         <Grid style={{ width: '80%', margin: 'auto', minHeight: '80vh' }}>
-            <Grid.Col xs={12} sm={8}>
+            <Grid.Col xs={12} sm={12}>
                 <Card withBorder p="xs">
                     <Text >Change Settings</Text>
 

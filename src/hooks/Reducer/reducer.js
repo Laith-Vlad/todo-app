@@ -1,3 +1,4 @@
+
 export const initialState = {
     showDone: false,
     sortBy: 'difficulty',

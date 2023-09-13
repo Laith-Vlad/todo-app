@@ -8,7 +8,7 @@ export default function Footer() {
             p={'0'}
             maw="100%"
             ta={'center'}
-            bg={'indigo'}
+            bg={'purple'}
             h='100px'
             c="white"
             justify={'center'}
